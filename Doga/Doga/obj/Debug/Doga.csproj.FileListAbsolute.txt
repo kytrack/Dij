@@ -1,0 +1,8 @@
+C:\Users\tanulo\source\repos\Doga\Doga\bin\Debug\nobel.csv
+C:\Users\tanulo\source\repos\Doga\Doga\bin\Debug\Doga.exe.config
+C:\Users\tanulo\source\repos\Doga\Doga\bin\Debug\Doga.exe
+C:\Users\tanulo\source\repos\Doga\Doga\bin\Debug\Doga.pdb
+C:\Users\tanulo\source\repos\Doga\Doga\obj\Debug\Doga.csproj.AssemblyReference.cache
+C:\Users\tanulo\source\repos\Doga\Doga\obj\Debug\Doga.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\Doga\Doga\obj\Debug\Doga.exe
+C:\Users\tanulo\source\repos\Doga\Doga\obj\Debug\Doga.pdb
